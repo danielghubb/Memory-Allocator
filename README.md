@@ -11,10 +11,10 @@ Buddy Memory Allocation:
 
 
 Custom Memory Management Functions:
-mem_alloc(): Allocate memory dynamically.
-mem_free(): Free previously allocated memory.
-mem_realloc(): Resize allocated memory.
-mem_dump(): Print the current state of the memory heap.
+- mem_alloc(): Allocate memory dynamically.
+- mem_free(): Free previously allocated memory.
+- mem_realloc(): Resize allocated memory.
+- mem_dump(): Print the current state of the memory heap.
 
 
 Simulation of Memory Behavior:
